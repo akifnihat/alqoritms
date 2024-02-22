@@ -1,0 +1,15 @@
+C:\Users\akifst\Desktop\alqoritms\alqoritms\alqoritms\bin\Debug\net6.0\alqoritms.exe
+C:\Users\akifst\Desktop\alqoritms\alqoritms\alqoritms\bin\Debug\net6.0\alqoritms.deps.json
+C:\Users\akifst\Desktop\alqoritms\alqoritms\alqoritms\bin\Debug\net6.0\alqoritms.runtimeconfig.json
+C:\Users\akifst\Desktop\alqoritms\alqoritms\alqoritms\bin\Debug\net6.0\alqoritms.dll
+C:\Users\akifst\Desktop\alqoritms\alqoritms\alqoritms\bin\Debug\net6.0\alqoritms.pdb
+C:\Users\akifst\Desktop\alqoritms\alqoritms\alqoritms\obj\Debug\net6.0\alqoritms.csproj.AssemblyReference.cache
+C:\Users\akifst\Desktop\alqoritms\alqoritms\alqoritms\obj\Debug\net6.0\alqoritms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akifst\Desktop\alqoritms\alqoritms\alqoritms\obj\Debug\net6.0\alqoritms.AssemblyInfoInputs.cache
+C:\Users\akifst\Desktop\alqoritms\alqoritms\alqoritms\obj\Debug\net6.0\alqoritms.AssemblyInfo.cs
+C:\Users\akifst\Desktop\alqoritms\alqoritms\alqoritms\obj\Debug\net6.0\alqoritms.csproj.CoreCompileInputs.cache
+C:\Users\akifst\Desktop\alqoritms\alqoritms\alqoritms\obj\Debug\net6.0\alqoritms.dll
+C:\Users\akifst\Desktop\alqoritms\alqoritms\alqoritms\obj\Debug\net6.0\refint\alqoritms.dll
+C:\Users\akifst\Desktop\alqoritms\alqoritms\alqoritms\obj\Debug\net6.0\alqoritms.pdb
+C:\Users\akifst\Desktop\alqoritms\alqoritms\alqoritms\obj\Debug\net6.0\alqoritms.genruntimeconfig.cache
+C:\Users\akifst\Desktop\alqoritms\alqoritms\alqoritms\obj\Debug\net6.0\ref\alqoritms.dll
